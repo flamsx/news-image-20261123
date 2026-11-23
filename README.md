@@ -15,8 +15,9 @@ a 22-story digest, a map of where it happened, and a date-check box.
 python3 main.py   # writes output/entry.png (1024x1024)
 ```
 
-Requires Python 3 + Pillow. All text is set in Lexend (OFL); the fonts
-live in `fonts/` so the render is self-contained and deterministic.
+Requires Python 3 only (standard library — no packages to install). All
+text is set in Lexend (OFL); the fonts live in `fonts/` so the render is
+self-contained and deterministic.
 
 ## Stories
 
